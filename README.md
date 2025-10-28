@@ -42,11 +42,11 @@ This project serves as a **comprehensive learning resource** for developers expl
 <div align="left">
   <table>
     <tr>
-      <td><img src="screenshots/welcome.png" alt="Welcome Screen" width="200"/></td>
-      <td><img src="screenshots/features.png" alt="Features Screen" width="200"/></td>
-      <td><img src="screenshots/analytics.png" alt="Analytics Screen" width="200"/></td>
-      <td><img src="screenshots/security.png" alt="Security Screen" width="200"/></td>
-      <td><img src="screenshots/getstarted.png" alt="Get Started Screen" width="200"/></td>
+      <td><img src="screenshots/image4.jpg" alt="Welcome Screen" width="200"/></td>
+      <td><img src="screenshots/image2.jpg" alt="Features Screen" width="200"/></td>
+      <td><img src="screenshots/imagefive.jpg" alt="Analytics Screen" width="200"/></td>
+      <td><img src="screenshots/image3.jpg" alt="Security Screen" width="200"/></td>
+      <td><img src="screenshots/image1.jpg" alt="Get Started Screen" width="200"/></td>
     </tr>
   </table>
 </div>
