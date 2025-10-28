@@ -19,7 +19,7 @@ This project serves as a **comprehensive learning resource** for developers expl
 
 <div align="center">
   
-  ![LiquidUI Banner](screenshots/banner.png)
+  ![LiquidUI Banner](screenshots/mockup.png)
     
 </div>
 
@@ -47,6 +47,18 @@ This project serves as a **comprehensive learning resource** for developers expl
       <td><img src="screenshots/imagefive.jpg" alt="Analytics Screen" width="200"/></td>
       <td><img src="screenshots/image3.jpg" alt="Security Screen" width="200"/></td>
       <td><img src="screenshots/image1.jpg" alt="Get Started Screen" width="200"/></td>
+    </tr>
+  </table>
+</div>
+
+<div align="left">
+  <table>
+    <tr>
+      <td><img src="screenshots/ex4.jpg" alt="Welcome Screen" width="200"/></td>
+      <td><img src="screenshots/ex1.jpg" alt="Features Screen" width="200"/></td>
+      <td><img src="screenshots/ex2.jpg" alt="Analytics Screen" width="200"/></td>
+      <td><img src="screenshots/ex3.jpg" alt="Security Screen" width="200"/></td>
+      <td><img src="screenshots/exfive.jpg" alt="Get Started Screen" width="200"/></td>
     </tr>
   </table>
 </div>
