@@ -214,11 +214,16 @@ This project is built using Flutter. Below are the essential details and configu
 
 ## 💬 Connect
 
-For questions, suggestions, or collaborations:
+For questions, feedback, or collaborations:
 
-📧 **[Email](pathakhom17@gmail.com)**  
-🐦 **[Follow me on X (Twitter)](https://x.com/KishanP07684084)**  
-💼 **[LinkedIn](https://www.linkedin.com/in/hom-bdr-pathak-01a3bb210)**  
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/PHom798)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&logoColor=white)](https://x.com/KishanP07684084)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hom-bdr-pathak-01a3bb210)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](pathakhom17@gmail.com)
+
+</div>
 
 ---
 
