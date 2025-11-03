@@ -67,8 +67,12 @@ This project serves as a **comprehensive learning resource** for developers expl
 
 ## 🎥 Demo Video
 
-Watch the **LiquidUI Onboarding Experience** in action:
-👉 [Watch the Demo Here](https://x.com/KishanP07684084/status/1946946799526195448)
+Watch the App in action:
+<div align="center">
+<video src="https://github.com/user-attachments/assets/3f00c94a-052a-45b4-8060-8b8214d15c56" controls width="100%" ></video> 
+</div>
+
+
 
 ---
 
